@@ -18,3 +18,5 @@ Body-parser (data capture from user input)
 PostgreSQL (database)
 pg (PostgreSQL client for Node.js)
 Front-end template from an external source
+
+![Screenshot 2024-06-29 120622](https://github.com/calvinrajesh6/Travel-Tracker/assets/145462164/83926fbf-acdd-45c2-a3b4-18caa33607b1)
